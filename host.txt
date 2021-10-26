@@ -1,0 +1,15 @@
+# Purpose of this list is to block access to websites when they need to study.
+#
+# THIS NEEDS TO BE SCHEDULED TO BE BLOKKED AND UNBLOCKED
+youtube.com
+fortnite.com
+roblox.com
+epicgames.com
+googlevideo.com
+youtu.be
+youtu.com
+youtube-nocookie.com
+youtube.googleapis.com
+youtubei.googleapis.com
+ytimg.com
+ytimg.l.google.com
